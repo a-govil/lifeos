@@ -87,7 +87,18 @@ This repository showcases an **MVP** that demonstrates core LifeOS concepts—**
    - Easy to scale or swap in real ML models, secure storage, and more advanced RAG pipelines.
 
 ---
+## Life OS UI
+![LifeOS UI SCREENS-images-8](https://github.com/user-attachments/assets/1d6939e6-b443-4eb9-a6b1-8d992568dc13)
+![LifeOS UI SCREENS-images-7](https://github.com/user-attachments/assets/f8a92745-86e1-4d0a-b017-37f57c638636)
+![LifeOS UI SCREENS-images-6](https://github.com/user-attachments/assets/de0af168-bf7a-4bab-b5e9-366482ed4506)
+![LifeOS UI SCREENS-images-5](https://github.com/user-attachments/assets/c917608a-c118-4ec5-95c0-e9de010a2bbc)
+![LifeOS UI SCREENS-images-4](https://github.com/user-attachments/assets/c78dd35a-743f-446f-b1c4-f7fcc3fe61df)
+![LifeOS UI SCREENS-images-3](https://github.com/user-attachments/assets/12ad3bd8-765e-4015-8c4f-64c14ee9bd00)
+![LifeOS UI SCREENS-images-2](https://github.com/user-attachments/assets/a62d108f-1362-44c2-aa0a-109a7688e136)
+![LifeOS UI SCREENS-images-1](https://github.com/user-attachments/assets/08d57aaa-70a5-4b00-a31e-a0fd5b0df7a4)
+![LifeOS UI SCREENS-images-0](https://github.com/user-attachments/assets/b1f1356d-970a-4f1e-898d-154e863615a2)
 
+---
 ## Repository Structure
 
 ```
