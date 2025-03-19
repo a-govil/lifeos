@@ -161,7 +161,7 @@ lifeos/
    ```bash
    python main.py
    ```
-   - Your Gradio UI should launch at `http://127.0.0.1:7860` (or similar).
+   - Your Gradio UI should launch at `http://127.0.0.1:7860`.
 
 4. **Explore the Tabs**  
    - **Home**: Enter or load an existing user profile.  
@@ -184,7 +184,6 @@ For major changes, please open an **issue** or a **discussion** first to align o
 
 ## License
 
-This project is licensed under the [MIT License](./LICENSE).  
 You are free to use, distribute, and modify this software with attribution.  
 
 ---
